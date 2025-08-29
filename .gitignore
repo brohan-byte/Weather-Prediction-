@@ -1,0 +1,10 @@
+__pycache__/
+
+venv/
+.ipynb_checkpoints/
+chk_rain_training/
+kafka_2.13-3.7.0
+artifacts/
+rain_training_parquet/
+spark-4.0.0-bin-hadoop3/
+demo.ipynb
